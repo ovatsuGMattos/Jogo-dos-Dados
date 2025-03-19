@@ -26,7 +26,6 @@
 
                     Random geradorDeNumeros = new Random();
 
-
                     int resultadoUsuario = SortearDado();
 
                     Console.WriteLine("----------------");
