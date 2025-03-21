@@ -2,7 +2,7 @@
 
 Um jogo simples de sorte, onde dois jogadores rolam dados e vence quem tirar o maior número!
 
-![]()
+![](https://i.imgur.com/Kdjlaa8.gif)
 
 
 ## Projeto
